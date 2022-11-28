@@ -1,0 +1,25 @@
+{
+  "name": "account-microservice",
+  "version": "1.0.0",
+  "description": "Account Microservice for banking application",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest -i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boudreaux-banking/account-microservice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boudreaux-banking/account-microservice/issues"
+  },
+  "homepage": "https://github.com/boudreaux-banking/account-microservice#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
